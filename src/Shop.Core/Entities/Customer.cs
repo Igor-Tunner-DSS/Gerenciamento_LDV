@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace LDV.Shop.Infrastructure
+namespace LDV.Shop.Core.Entities
 {
-    internal class DependencyInjection
+    public class Customer
     {
     }
 }

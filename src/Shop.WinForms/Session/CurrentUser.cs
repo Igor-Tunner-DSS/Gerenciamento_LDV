@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LDV.Shop.WinForms.Session
 {
-    internal class CurrentUser
+    public class CurrentUser
     {
     }
 }

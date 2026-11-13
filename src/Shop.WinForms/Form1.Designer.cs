@@ -1,4 +1,4 @@
-﻿namespace Shop.WinForms;
+﻿namespace LDV.Shop.WinForms;
 
 partial class Form1
 {

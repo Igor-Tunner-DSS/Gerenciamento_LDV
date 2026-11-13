@@ -4,7 +4,8 @@ using System.Text;
 
 namespace LDV.Shop.Core.Abstractions
 {
-    internal interface IUnitOfWork
+    public interface IUnitOfWork
     {
+        Task<int> SaveChangesAsync(CancellationToken cancellationToken = default);
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace LDV.Shop.Core.Abstractions
 {
-    internal interface ICartRepository
+    public interface ICartRepository
     {
     }
 }
